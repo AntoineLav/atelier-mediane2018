@@ -20,6 +20,10 @@ Prérequis
 * Ordinateur portable
 * Installer l'hyperviseur virtualbox 5.2.4 (Vous pouvez le trouver [ici](https://www.virtualbox.org/wiki/Downloads))
 
+
+Mission
+-------
+
 Votre mission, si vous l'acceptez, est de créer un simple QCM de *5 questions* à destination des autres groupes de l'atelier.
 
 Les modalités à suivre sont :
@@ -32,7 +36,12 @@ Les modalités à suivre sont :
 * Votre sujet devra comporter une question ouverte
 * Il faudra ajouter un texte précisant que les réponses doivent être données sur la feuille prévue à cette effet.
 
+Ressources
+----------
 
+* La machine virtuelle à importer dans virtualbox est disponible [ici]()
+
+* La documentation de l'outil "auto-multiple-choice" est disponible [ici]()
  
 
 
