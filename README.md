@@ -39,9 +39,9 @@ Les modalités à suivre sont :
 Ressources
 ----------
 
-* La machine virtuelle à importer dans virtualbox est disponible [ici]()
+* La machine virtuelle à importer dans virtualbox est disponible [ici](https://filesender.renater.fr/?s=download&token=6d191307-23c2-b052-f4ea-8be4ef29c89d)
 
-* La documentation de l'outil "auto-multiple-choice" est disponible [ici]()
+* La documentation de l'outil "auto-multiple-choice" est disponible [ici](https://github.com/AntoineLav/atelier-mediane2018/tree/master/documentation)
  
 
 
