@@ -10,7 +10,7 @@ Ce document a pour but de vous faire découvrir une solution permettant d'accomp
 
 # Retour d'expérience
 
-Les slides de cette présentation sont disponibles [ici]()
+Les slides de cette présentation sont disponibles [ici](https://github.com/AntoineLav/atelier-mediane2018/tree/master/documentation)
 
 # Mise en pratique
 
@@ -29,9 +29,8 @@ Votre mission, si vous l'acceptez, est de créer un simple QCM de *5 questions* 
 Les modalités à suivre sont :
 
 * Les questions doivent être mélangées automatiquement lors de la création de chaque copie.
-* Le code d'identification des autres groupes est composé de 8 chiffres.
 * Chaque copie devra comporter un nombre paire de pages.
-* Les cases à cocher par les étudiants devront être colorées en rouge
+* Les cases à cocher par les étudiants devront être colorées en bleu
 * La feuille de réponse doit être séparée de la copie afin de faciliter la correction.
 * Votre sujet devra comporter une question ouverte
 * Il faudra ajouter un texte précisant que les réponses doivent être données sur la feuille prévue à cette effet.
